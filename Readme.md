@@ -25,7 +25,7 @@ Follow these steps to get the project running on your local machine:
     Open your terminal or command prompt and execute the following command to clone the project repository:
 
     ```bash
-    git clone [https://github.com/MushfiqPlabon/staticFakeStore.git](https://github.com/MushfiqPlabon/staticFakeStore.git)
+    git clone https://github.com/MushfiqPlabon/staticFakeStore.git
     ```
 
 2.  **Navigate to the Project Directory:**
